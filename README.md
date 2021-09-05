@@ -1,5 +1,5 @@
 # Links
 
-https://www.ugg.li
-https://ma.ttias.be
+https://www.ugg.li/  
+https://ma.ttias.be/  
 
