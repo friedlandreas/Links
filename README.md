@@ -16,6 +16,7 @@ https://www.it-blog.net/
 https://www.frankysweb.de/  
 https://www.andysblog.de/  
 https://crt.sh/ 
+
 https://www.gradenegger.eu/de/
 https://decatec.de
 
