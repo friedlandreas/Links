@@ -19,4 +19,5 @@ https://crt.sh/
 https://www.gradenegger.eu/de/   
 https://decatec.de
 https://adsecurity.org
+https://hartiga.de
 
